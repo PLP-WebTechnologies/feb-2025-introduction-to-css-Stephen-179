@@ -1,0 +1,23 @@
+/* Selector 1: Styling the title using a class */
+.title {
+    color: #007bff;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+/* Selector 2: Styling the paragraph using an ID */
+#intro {
+    font-size: 18px;
+    color: #333;
+    margin: 20px;
+    padding: 10px;
+}
+
+/* Selector 3: Styling an image */
+.styled-image {
+    width: 300px;
+    border: 3px solid #007bff;
+    border-radius: 10px;
+    margin: 20px auto;
+    display: block;
+}
